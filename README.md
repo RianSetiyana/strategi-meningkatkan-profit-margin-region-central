@@ -172,7 +172,7 @@ plt.show()
 
 ## Sub-Category Penyebab Kerugian
 
-Proses diawali dengan memfilter data untuk category Furniture di region Central sebagai fokus analisis, kemudian dilanjutkan dengan menghitung `profit_margin` setiap sub-category. Hasil perhitungan kemudian divisualisasikan dalam bentuk bar chart untuk membandingkan profit margin masing-masing sub-category. Dari visualisasi tersebut, terlihat bahwa 3 dari 4 sub-category mengalami kerugian, yakni Bookcases (-8.3%), Tables (-9.1%), dan Furnishings (-25.6%), sementara hanya Chairs yang masih untung (7.7%).
+Proses diawali dengan memfilter data untuk category Furniture di region Central, kemudian dilanjutkan dengan menghitung `profit_margin` setiap sub-category. Hasil perhitungan kemudian divisualisasikan dalam bentuk bar chart untuk membandingkan profit margin masing-masing sub-category. Dari visualisasi tersebut, terlihat bahwa 3 dari 4 sub-category mengalami kerugian, yakni Bookcases (-8.3%), Tables (-9.1%), dan Furnishings (-25.6%), sementara hanya Chairs yang masih untung (7.7%).
 
 Detail proses analisis dapat dilihat pada notebook berikut: [3_Sub_Category_Profitability](Python/3_Sub_Category_Profitability.ipynb)
 
