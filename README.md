@@ -319,4 +319,4 @@ File dashboard dapat dilihat disini: [Superstore_Dashboard](Power_BI/Superstore_
 
 Untuk langkah awal, berhentikan sementara pemberian diskon serta meninjau kembali strategi pemberian diskon pada region Central khususnya untuk sub-category Bookcases, Tables, dan Furnishings. Hal ini diperlukan karena hasil analisis menunjukkan bahwa sub-category tersebut langsung mengalami kerugian saat diskon diterapkan. Apabila pemberian diskon pada sub-category tersebut dihentikan, profit margin region Central berpotensi meningkat dari 7.9% menjadi 13.4% (naik 5.5%), dengan catatan volume penjualan konstan.
 
-Detail perhitungan simulasi dapat dilihat pada notebook berikut: [5_Discount_Simulation_Central](Python/5_Discount_Simulation_Central.ipynb)
+Detail perhitungan dapat dilihat pada notebook berikut: [5_Discount_Simulation_Central](Python/5_Discount_Simulation_Central.ipynb)
