@@ -2,7 +2,7 @@
 
 # Ringkasan
 
-Dengan menggunakan data [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), dilakukan analisis untuk meningkatkan profit margin di region Central. Region Central dipilih sebagai fokus analisis karena region tersebut menjadi satu-satunya region yang memiliki profit margin dibawah 10% (underperform). Setelah melalui serangkaian proses analisis, diketahui bahwa strategi pemberian diskon pada sub-category Bookcases, Tables, dan Furnishings di region tersebut tidak efektif. Oleh karena itu, diperlukan pemberhentian diskon sementara serta meninjau kembali strategi pemberian diskon pada sub-category tersebut. Langkah ini berpotensi meningkatkan profit margin region Central dari 7.9% menjadi 13.4%.
+Dengan menggunakan data [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), dilakukan analisis untuk meningkatkan profit margin di region Central. Region Central dipilih sebagai fokus analisis karena region tersebut menjadi satu-satunya region yang memiliki profit margin dibawah 10% (underperform). Setelah melalui serangkaian proses analisis, diketahui bahwa strategi pemberian diskon pada sub-category Bookcases, Tables, dan Furnishings di region tersebut kurang efektif.
 
 # Pertanyaan Bisnis
 
